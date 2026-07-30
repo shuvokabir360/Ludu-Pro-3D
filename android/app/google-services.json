@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730876184371",
+    "project_id": "ludu-pro-ce4e9",
+    "storage_bucket": "ludu-pro-ce4e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730876184371:android:2f4a24da32534be146e046",
+        "android_client_info": {
+          "package_name": "com.ludopro3d.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Po60ei4Bld8fBE8os9gTb6REI8Zw8Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
